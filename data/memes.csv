@@ -1,0 +1,502 @@
+meme_id,category,caption,likes,shares,comments,views,sentiment,caption_length,popularity
+M0001,Relatable,Me opening the book one day before the exam,700,228,16,13843,Neutral,43,Medium
+M0002,Dark Humor,Everything is fine said the burning laptop,11880,4303,331,116206,Positive,42,High
+M0003,Dank,Task failed successfully,5675,1725,710,126042,Neutral,24,Medium
+M0004,Reaction,Me pretending I understood the lecture,2205,589,41,67832,Neutral,38,Low
+M0005,Wholesome,A small kindness can change someone's day,8659,1604,1263,128814,Positive,41,Medium
+M0006,Relatable,When the WiFi stops working during submission,11784,1411,887,124230,Positive,45,Medium
+M0007,Reaction,When the group project actually has teamwork,1350,466,196,74919,Positive,44,Low
+M0008,Reaction,That look when the teacher says surprise test,194,45,7,7048,Neutral,45,Low
+M0009,Reaction,My face when the code works on the first try,2419,761,172,69709,Positive,44,Medium
+M0010,Wholesome,When someone remembers the small details,1683,282,212,19923,Negative,40,Medium
+M0011,Relatable,When the WiFi stops working during submission,1984,634,58,65564,Neutral,45,Low
+M0012,Wholesome,The best team is the one that supports you,1534,556,158,120812,Negative,42,Low
+M0013,Dank,The universe has selected chaos,4773,1303,141,70999,Negative,31,Medium
+M0014,Relatable,Me opening the book one day before the exam,1487,346,132,105922,Negative,43,Low
+M0015,Relatable,I said five more minutes and woke up tomorrow,728,196,38,12340,Negative,45,Medium
+M0016,Reaction,When someone says this will be easy,589,75,39,114867,Positive,35,Low
+M0017,Wholesome,When someone remembers the small details,2293,356,117,148903,Positive,40,Low
+M0018,Wholesome,A small kindness can change someone's day,7894,2852,813,128083,Neutral,41,Medium
+M0019,Dark Humor,My bank account tells horror stories,3371,166,76,61673,Negative,36,Low
+M0020,Reaction,That look when the teacher says surprise test,3831,406,307,61254,Neutral,45,Medium
+M0021,Relatable,Me opening the book one day before the exam,8399,1648,438,140738,Neutral,43,Medium
+M0022,Dank,Unexpected plot twist unlocked,1182,89,31,23270,Positive,30,Low
+M0023,Dank,Task failed successfully,4700,700,684,51172,Negative,24,High
+M0024,Dark Humor,The deadline is approaching faster than my hopes,11550,2589,555,144303,Neutral,48,Medium
+M0025,Dark Humor,Everything is fine said the burning laptop,952,117,50,12348,Negative,42,Medium
+M0026,Dark Humor,Everything is fine said the burning laptop,594,232,69,14910,Neutral,42,Medium
+M0027,Dark Humor,My sleep schedule has left the chat,3207,896,323,74167,Neutral,35,Medium
+M0028,Dank,When the side quest becomes the main quest,1009,57,79,108059,Neutral,42,Low
+M0029,Dank,The universe has selected chaos,307,86,10,28639,Negative,31,Low
+M0030,Wholesome,The best team is the one that supports you,4305,784,399,49814,Neutral,42,Medium
+M0031,Reaction,That look when the teacher says surprise test,3715,1340,80,44565,Neutral,45,High
+M0032,Dark Humor,My sleep schedule has left the chat,171,72,15,3909,Positive,35,Medium
+M0033,Relatable,I said five more minutes and woke up tomorrow,1825,462,130,81565,Negative,45,Low
+M0034,Dark Humor,My sleep schedule has left the chat,405,165,12,71286,Positive,35,Low
+M0035,Reaction,When someone says this will be easy,617,95,63,45675,Positive,35,Low
+M0036,Wholesome,A little progress is still progress,6447,542,891,83328,Neutral,35,Medium
+M0037,Wholesome,When your friend saves you a seat,903,173,113,146285,Negative,33,Low
+M0038,Dank,The universe has selected chaos,2169,934,110,34916,Neutral,31,High
+M0039,Reaction,When the group project actually has teamwork,3024,325,49,93468,Negative,44,Low
+M0040,Reaction,My face when the code works on the first try,4193,1700,481,77501,Neutral,44,Medium
+M0041,Wholesome,The best team is the one that supports you,10153,1721,1198,126923,Positive,42,Medium
+M0042,Dank,When the side quest becomes the main quest,7181,565,822,133673,Negative,42,Low
+M0043,Relatable,Me opening the book one day before the exam,3842,347,485,57308,Positive,43,Medium
+M0044,Dank,The universe has selected chaos,481,137,63,39737,Neutral,31,Low
+M0045,Wholesome,When someone remembers the small details,252,110,20,7195,Positive,40,Medium
+M0046,Wholesome,A little progress is still progress,289,38,8,29866,Neutral,35,Low
+M0047,Wholesome,When someone remembers the small details,42,13,3,3185,Negative,40,Low
+M0048,Reaction,Me pretending I understood the lecture,2459,819,278,101809,Neutral,38,Low
+M0049,Relatable,That feeling when the weekend finally arrives,2161,438,112,123980,Negative,45,Low
+M0050,Dark Humor,My sleep schedule has left the chat,997,430,49,20093,Negative,35,Medium
+M0051,Wholesome,When your friend saves you a seat,729,218,18,144062,Negative,33,Low
+M0052,Relatable,I said five more minutes and woke up tomorrow,1921,837,179,138758,Neutral,45,Low
+M0053,Dank,When the side quest becomes the main quest,1923,695,24,27629,Positive,42,High
+M0054,Dark Humor,My bank account tells horror stories,2091,766,89,139986,Neutral,36,Low
+M0055,Dank,The universe has selected chaos,3480,999,235,50469,Negative,31,Medium
+M0056,Dank,When the side quest becomes the main quest,2617,804,344,79850,Neutral,42,Medium
+M0057,Relatable,That feeling when the weekend finally arrives,800,276,99,41474,Negative,45,Low
+M0058,Wholesome,A small kindness can change someone's day,548,155,16,68357,Positive,41,Low
+M0059,Dark Humor,My motivation is on airplane mode,632,263,20,29249,Positive,33,Low
+M0060,Relatable,When the WiFi stops working during submission,2502,218,32,123787,Neutral,45,Low
+M0061,Relatable,Me opening the book one day before the exam,1268,358,133,106500,Neutral,43,Low
+M0062,Wholesome,A small kindness can change someone's day,276,68,36,8781,Neutral,41,Low
+M0063,Dank,The universe has selected chaos,590,80,26,119001,Neutral,31,Low
+M0064,Wholesome,When someone remembers the small details,6171,371,384,127744,Positive,40,Low
+M0065,Dark Humor,My bank account tells horror stories,1970,120,274,138909,Neutral,36,Low
+M0066,Wholesome,When your friend saves you a seat,1103,452,162,78801,Neutral,33,Low
+M0067,Dank,Unexpected plot twist unlocked,3699,1329,106,48444,Negative,30,High
+M0068,Dark Humor,The deadline is approaching faster than my hopes,5893,2307,440,120402,Neutral,48,Medium
+M0069,Wholesome,A small kindness can change someone's day,5597,544,430,117728,Positive,41,Low
+M0070,Dank,Task failed successfully,1791,341,109,58070,Negative,24,Low
+M0071,Relatable,That feeling when the weekend finally arrives,4409,713,629,110673,Neutral,45,Low
+M0072,Dank,When the side quest becomes the main quest,3944,688,335,49460,Positive,42,Medium
+M0073,Relatable,Me opening the book one day before the exam,10274,2654,1013,144093,Neutral,43,Medium
+M0074,Relatable,When the WiFi stops working during submission,4073,500,436,127359,Positive,45,Low
+M0075,Relatable,I said five more minutes and woke up tomorrow,1149,90,128,75744,Positive,45,Low
+M0076,Reaction,That look when the teacher says surprise test,1693,163,244,129177,Negative,45,Low
+M0077,Wholesome,When your friend saves you a seat,1661,607,236,25824,Neutral,33,High
+M0078,Dank,When the side quest becomes the main quest,3119,246,300,120232,Neutral,42,Low
+M0079,Wholesome,When your friend saves you a seat,1370,316,113,25574,Negative,33,Medium
+M0080,Wholesome,When your friend saves you a seat,2157,521,202,26108,Positive,33,High
+M0081,Relatable,When the assignment deadline is in two hours,199,15,20,21300,Negative,44,Low
+M0082,Wholesome,A little progress is still progress,6441,2030,365,139719,Negative,35,Medium
+M0083,Relatable,Me opening the book one day before the exam,6258,1184,338,110865,Positive,43,Medium
+M0084,Wholesome,The best team is the one that supports you,1623,687,115,134805,Positive,42,Low
+M0085,Dank,The universe has selected chaos,7471,3166,890,110754,Positive,31,High
+M0086,Reaction,My face when the code works on the first try,2294,1019,253,57806,Positive,44,Medium
+M0087,Wholesome,When your friend saves you a seat,2048,616,55,127027,Negative,33,Low
+M0088,Wholesome,When your friend saves you a seat,8570,386,630,142703,Positive,33,Low
+M0089,Wholesome,When someone remembers the small details,2939,650,153,108526,Positive,40,Low
+M0090,Relatable,That feeling when the weekend finally arrives,12095,1032,1809,123897,Positive,45,Medium
+M0091,Relatable,When the WiFi stops working during submission,238,19,35,7103,Positive,45,Low
+M0092,Wholesome,A little progress is still progress,8707,671,1180,131940,Negative,35,Medium
+M0093,Dank,Reality.exe has stopped responding,2233,800,84,129584,Positive,34,Low
+M0094,Dank,Reality.exe has stopped responding,432,23,4,4835,Positive,34,Medium
+M0095,Wholesome,The best team is the one that supports you,1583,218,204,23870,Negative,42,Medium
+M0096,Dark Humor,The deadline is approaching faster than my hopes,76,31,8,8222,Neutral,48,Low
+M0097,Reaction,My face when the code works on the first try,6270,769,172,126996,Positive,44,Low
+M0098,Dank,Unexpected plot twist unlocked,5654,1686,730,104869,Positive,30,Medium
+M0099,Relatable,That feeling when the weekend finally arrives,3432,518,375,67592,Neutral,45,Medium
+M0100,Reaction,Me pretending I understood the lecture,2211,137,212,23704,Neutral,38,Medium
+M0101,Dark Humor,My sleep schedule has left the chat,103,11,2,1154,Positive,35,Medium
+M0102,Reaction,My face when the code works on the first try,169,38,20,6831,Neutral,44,Low
+M0103,Reaction,That look when the teacher says surprise test,1474,630,76,38545,Positive,45,Medium
+M0104,Reaction,Me pretending I understood the lecture,5698,1744,807,95643,Positive,38,Medium
+M0105,Relatable,That feeling when the weekend finally arrives,1033,242,27,24109,Positive,45,Medium
+M0106,Dank,Reality.exe has stopped responding,269,44,18,22691,Positive,34,Low
+M0107,Reaction,That look when the teacher says surprise test,6275,1302,253,117944,Neutral,45,Medium
+M0108,Reaction,Me pretending I understood the lecture,4212,230,288,91842,Neutral,38,Low
+M0109,Relatable,When the assignment deadline is in two hours,1662,452,179,71852,Neutral,44,Low
+M0110,Reaction,When the group project actually has teamwork,4598,780,552,71382,Neutral,44,Medium
+M0111,Dark Humor,My motivation is on airplane mode,2232,419,182,51733,Positive,33,Medium
+M0112,Dark Humor,Everything is fine said the burning laptop,6936,2896,558,82597,Negative,42,High
+M0113,Wholesome,When your friend saves you a seat,6758,2590,535,110142,Neutral,33,Medium
+M0114,Dark Humor,The deadline is approaching faster than my hopes,680,261,12,78281,Negative,48,Low
+M0115,Relatable,Me opening the book one day before the exam,288,48,32,12107,Negative,43,Low
+M0116,Reaction,When the group project actually has teamwork,210,82,13,42451,Positive,44,Low
+M0117,Relatable,That feeling when the weekend finally arrives,4158,788,599,106521,Positive,45,Medium
+M0118,Reaction,When someone says this will be easy,2462,412,261,23465,Positive,35,High
+M0119,Dark Humor,My sleep schedule has left the chat,870,38,34,22036,Positive,35,Low
+M0120,Dark Humor,My motivation is on airplane mode,3803,410,483,105958,Positive,33,Low
+M0121,Wholesome,When someone remembers the small details,8632,3850,257,138094,Neutral,40,High
+M0122,Dark Humor,My bank account tells horror stories,5603,408,648,148375,Neutral,36,Low
+M0123,Reaction,Me pretending I understood the lecture,212,24,29,6663,Neutral,38,Low
+M0124,Reaction,When someone says this will be easy,345,55,27,65349,Neutral,35,Low
+M0125,Relatable,When the WiFi stops working during submission,4667,652,597,149343,Negative,45,Low
+M0126,Relatable,Me opening the book one day before the exam,5581,1756,651,88173,Neutral,43,Medium
+M0127,Reaction,That look when the teacher says surprise test,3227,576,413,92267,Negative,45,Low
+M0128,Dark Humor,My bank account tells horror stories,481,187,38,9187,Positive,36,Medium
+M0129,Dark Humor,Everything is fine said the burning laptop,4300,772,343,64914,Neutral,42,Medium
+M0130,Dark Humor,My bank account tells horror stories,4674,950,647,136478,Negative,36,Low
+M0131,Dark Humor,My sleep schedule has left the chat,1492,176,20,94532,Positive,35,Low
+M0132,Wholesome,The best team is the one that supports you,7464,1239,700,94809,Positive,42,Medium
+M0133,Relatable,I said five more minutes and woke up tomorrow,2586,775,381,85195,Positive,45,Low
+M0134,Dark Humor,Everything is fine said the burning laptop,87,30,11,1593,Neutral,42,Medium
+M0135,Wholesome,When someone remembers the small details,7926,3133,205,77504,Neutral,40,High
+M0136,Wholesome,When someone remembers the small details,6748,1800,685,108244,Positive,40,Medium
+M0137,Relatable,Me opening the book one day before the exam,4606,1569,529,62818,Neutral,43,High
+M0138,Dank,When the side quest becomes the main quest,3412,193,405,145487,Positive,42,Low
+M0139,Dark Humor,My bank account tells horror stories,12218,5387,826,144506,Neutral,36,High
+M0140,Dank,Reality.exe has stopped responding,3622,969,442,73710,Positive,34,Medium
+M0141,Relatable,I said five more minutes and woke up tomorrow,1946,375,32,40281,Negative,45,Medium
+M0142,Relatable,I said five more minutes and woke up tomorrow,1887,627,223,138742,Positive,45,Low
+M0143,Dank,Task failed successfully,137,8,5,1714,Negative,24,Medium
+M0144,Reaction,My face when the code works on the first try,9129,382,749,129885,Neutral,44,Medium
+M0145,Dank,The universe has selected chaos,194,78,20,39815,Positive,31,Low
+M0146,Dank,Reality.exe has stopped responding,2942,537,380,101754,Positive,34,Low
+M0147,Dank,Unexpected plot twist unlocked,6649,1015,891,135428,Negative,30,Medium
+M0148,Dank,Unexpected plot twist unlocked,591,106,65,45192,Positive,30,Low
+M0149,Relatable,When the assignment deadline is in two hours,4793,993,139,64020,Positive,44,Medium
+M0150,Wholesome,When your friend saves you a seat,8543,2796,797,121211,Positive,33,High
+M0151,Wholesome,The best team is the one that supports you,766,72,46,9513,Negative,42,Medium
+M0152,Dank,The universe has selected chaos,392,18,28,59159,Positive,31,Low
+M0153,Dank,Reality.exe has stopped responding,4358,1888,502,144490,Negative,34,Medium
+M0154,Dark Humor,My sleep schedule has left the chat,3929,1602,168,95363,Negative,35,Medium
+M0155,Dark Humor,My bank account tells horror stories,6909,2379,640,84290,Negative,36,High
+M0156,Reaction,When someone says this will be easy,2453,340,135,49138,Positive,35,Low
+M0157,Relatable,I said five more minutes and woke up tomorrow,1758,475,212,27019,Positive,45,Medium
+M0158,Reaction,When someone says this will be easy,1577,371,235,23738,Positive,35,Medium
+M0159,Relatable,That feeling when the weekend finally arrives,8265,2999,296,88558,Negative,45,High
+M0160,Dark Humor,My motivation is on airplane mode,3648,1122,524,101352,Negative,33,Medium
+M0161,Reaction,When the group project actually has teamwork,3074,1332,75,117042,Positive,44,Low
+M0162,Wholesome,When someone remembers the small details,393,26,28,77153,Positive,40,Low
+M0163,Dark Humor,My sleep schedule has left the chat,790,67,50,39944,Neutral,35,Low
+M0164,Wholesome,A small kindness can change someone's day,702,87,36,77655,Neutral,41,Low
+M0165,Reaction,That look when the teacher says surprise test,1801,154,235,73831,Negative,45,Low
+M0166,Wholesome,A small kindness can change someone's day,170,40,9,59421,Neutral,41,Low
+M0167,Dark Humor,My bank account tells horror stories,5346,784,294,61815,Negative,36,Medium
+M0168,Relatable,I said five more minutes and woke up tomorrow,1499,479,62,64983,Neutral,45,Low
+M0169,Dark Humor,The deadline is approaching faster than my hopes,6158,1409,675,111719,Negative,48,Medium
+M0170,Wholesome,The best team is the one that supports you,521,50,72,49944,Neutral,42,Low
+M0171,Dank,The universe has selected chaos,172,14,16,13928,Negative,31,Low
+M0172,Wholesome,When your friend saves you a seat,46,12,5,1884,Neutral,33,Low
+M0173,Reaction,When someone says this will be easy,6099,650,720,74350,Negative,35,Medium
+M0174,Reaction,Me pretending I understood the lecture,75,31,5,1208,Negative,38,High
+M0175,Dark Humor,Everything is fine said the burning laptop,11324,4228,618,145255,Negative,42,High
+M0176,Reaction,When the group project actually has teamwork,6900,888,468,90711,Neutral,44,Medium
+M0177,Dark Humor,The deadline is approaching faster than my hopes,591,107,7,95538,Negative,48,Low
+M0178,Wholesome,When your friend saves you a seat,941,310,106,47986,Neutral,33,Low
+M0179,Wholesome,When your friend saves you a seat,10412,954,313,123979,Neutral,33,Medium
+M0180,Relatable,I said five more minutes and woke up tomorrow,2258,559,336,47914,Neutral,45,Medium
+M0181,Reaction,When someone says this will be easy,226,63,6,40115,Positive,35,Low
+M0182,Dank,Unexpected plot twist unlocked,111,28,10,1099,Positive,30,High
+M0183,Dank,The universe has selected chaos,209,33,21,27761,Positive,31,Low
+M0184,Relatable,When the WiFi stops working during submission,1988,565,84,41341,Negative,45,Medium
+M0185,Reaction,Me pretending I understood the lecture,3349,894,219,127185,Negative,38,Low
+M0186,Wholesome,When someone remembers the small details,9239,2517,1073,131146,Positive,40,Medium
+M0187,Wholesome,A little progress is still progress,4192,189,509,107783,Negative,35,Low
+M0188,Dank,The universe has selected chaos,6483,509,872,147520,Neutral,31,Low
+M0189,Relatable,Me opening the book one day before the exam,4484,1947,156,98783,Negative,43,Medium
+M0190,Dank,The universe has selected chaos,1484,614,58,59553,Neutral,31,Low
+M0191,Reaction,My face when the code works on the first try,4305,841,354,51724,Positive,44,Medium
+M0192,Reaction,That look when the teacher says surprise test,5451,1967,489,70735,Positive,45,High
+M0193,Wholesome,When your friend saves you a seat,6762,2483,162,66935,Negative,33,High
+M0194,Reaction,When the group project actually has teamwork,383,18,56,16139,Neutral,44,Low
+M0195,Dark Humor,The deadline is approaching faster than my hopes,12172,2456,665,148209,Neutral,48,Medium
+M0196,Reaction,My face when the code works on the first try,3291,683,310,56883,Neutral,44,Medium
+M0197,Wholesome,When your friend saves you a seat,2875,559,187,86579,Neutral,33,Low
+M0198,Wholesome,A little progress is still progress,1475,472,84,140339,Negative,35,Low
+M0199,Dank,Unexpected plot twist unlocked,67,23,8,4041,Neutral,30,Low
+M0200,Wholesome,When your friend saves you a seat,2969,344,246,143257,Negative,33,Low
+M0201,Wholesome,A small kindness can change someone's day,150,35,21,9028,Neutral,41,Low
+M0202,Dark Humor,Everything is fine said the burning laptop,4103,350,186,70528,Negative,42,Low
+M0203,Dark Humor,My motivation is on airplane mode,1795,735,265,20744,Neutral,33,High
+M0204,Relatable,When the WiFi stops working during submission,5125,355,150,44568,Positive,45,Medium
+M0205,Dank,Reality.exe has stopped responding,4979,1925,479,141221,Neutral,34,Medium
+M0206,Dank,The universe has selected chaos,1705,245,55,46017,Positive,31,Low
+M0207,Wholesome,A little progress is still progress,1012,163,62,16446,Negative,35,Medium
+M0208,Reaction,My face when the code works on the first try,5665,2020,220,127864,Negative,44,Medium
+M0209,Relatable,When the WiFi stops working during submission,1523,123,71,90703,Negative,45,Low
+M0210,Wholesome,When someone remembers the small details,8115,1700,592,141260,Neutral,40,Medium
+M0211,Relatable,That feeling when the weekend finally arrives,2240,892,128,28192,Negative,45,High
+M0212,Wholesome,A small kindness can change someone's day,1457,204,47,37166,Negative,41,Low
+M0213,Dark Humor,The deadline is approaching faster than my hopes,562,141,44,5963,Negative,48,High
+M0214,Reaction,When the group project actually has teamwork,6936,1513,197,141032,Neutral,44,Medium
+M0215,Dank,Reality.exe has stopped responding,4495,1936,147,54277,Positive,34,High
+M0216,Dark Humor,The deadline is approaching faster than my hopes,759,109,10,19286,Negative,48,Low
+M0217,Relatable,When the assignment deadline is in two hours,4036,1167,303,57329,Negative,44,Medium
+M0218,Wholesome,When your friend saves you a seat,690,80,102,18283,Negative,33,Low
+M0219,Dank,When the side quest becomes the main quest,1406,144,195,21811,Neutral,42,Medium
+M0220,Relatable,When the assignment deadline is in two hours,2632,474,319,122837,Neutral,44,Low
+M0221,Reaction,Me pretending I understood the lecture,8004,1015,1115,98804,Positive,38,Medium
+M0222,Wholesome,When your friend saves you a seat,4131,169,615,93594,Negative,33,Low
+M0223,Dank,Task failed successfully,331,30,10,42455,Negative,24,Low
+M0224,Wholesome,The best team is the one that supports you,2219,927,121,42494,Positive,42,Medium
+M0225,Wholesome,The best team is the one that supports you,2928,837,223,62383,Negative,42,Medium
+M0226,Wholesome,The best team is the one that supports you,8088,911,848,109063,Negative,42,Medium
+M0227,Dark Humor,My sleep schedule has left the chat,880,357,101,147934,Negative,35,Low
+M0228,Relatable,That feeling when the weekend finally arrives,11338,3521,593,126978,Positive,45,High
+M0229,Dark Humor,Everything is fine said the burning laptop,2173,446,192,54497,Neutral,42,Low
+M0230,Relatable,Me opening the book one day before the exam,9173,3778,630,142156,Positive,43,High
+M0231,Dank,The universe has selected chaos,859,189,23,28829,Positive,31,Low
+M0232,Reaction,That look when the teacher says surprise test,1152,355,118,97237,Positive,45,Low
+M0233,Dank,Reality.exe has stopped responding,1100,394,143,46102,Neutral,34,Low
+M0234,Relatable,That feeling when the weekend finally arrives,92,8,4,3455,Positive,45,Low
+M0235,Wholesome,The best team is the one that supports you,3489,1441,133,115000,Negative,42,Medium
+M0236,Dank,When the side quest becomes the main quest,1191,512,113,21228,Neutral,42,Medium
+M0237,Relatable,When the WiFi stops working during submission,5458,2402,359,111956,Negative,45,Medium
+M0238,Relatable,That feeling when the weekend finally arrives,1544,315,204,38638,Positive,45,Medium
+M0239,Dark Humor,My bank account tells horror stories,7719,3011,425,144386,Neutral,36,Medium
+M0240,Wholesome,A little progress is still progress,4477,1339,254,91729,Neutral,35,Medium
+M0241,Dank,Task failed successfully,12801,4938,1881,121467,Neutral,24,High
+M0242,Dank,Task failed successfully,2924,1031,225,37008,Neutral,24,High
+M0243,Dark Humor,My bank account tells horror stories,2416,383,111,94121,Positive,36,Low
+M0244,Reaction,Me pretending I understood the lecture,3385,439,420,68739,Negative,38,Medium
+M0245,Reaction,My face when the code works on the first try,480,85,58,43960,Neutral,44,Low
+M0246,Dark Humor,My sleep schedule has left the chat,7071,2527,185,129155,Neutral,35,Medium
+M0247,Dark Humor,My sleep schedule has left the chat,1210,124,83,17744,Negative,35,Medium
+M0248,Wholesome,A small kindness can change someone's day,4297,1899,84,58814,Negative,41,High
+M0249,Dark Humor,The deadline is approaching faster than my hopes,8230,3314,846,140797,Neutral,48,Medium
+M0250,Dank,Reality.exe has stopped responding,322,36,22,21130,Positive,34,Low
+M0251,Reaction,When someone says this will be easy,3931,1209,585,76209,Neutral,35,Medium
+M0252,Reaction,My face when the code works on the first try,7391,584,827,83051,Negative,44,Medium
+M0253,Wholesome,When someone remembers the small details,527,112,9,18176,Negative,40,Low
+M0254,Dark Humor,Everything is fine said the burning laptop,7860,2852,994,146511,Positive,42,Medium
+M0255,Dark Humor,The deadline is approaching faster than my hopes,4528,1571,553,135962,Positive,48,Medium
+M0256,Wholesome,When someone remembers the small details,7074,700,941,123274,Neutral,40,Medium
+M0257,Wholesome,The best team is the one that supports you,2229,150,38,137401,Positive,42,Low
+M0258,Wholesome,The best team is the one that supports you,39,13,0,14866,Positive,42,Low
+M0259,Wholesome,When your friend saves you a seat,2823,282,368,51044,Negative,33,Medium
+M0260,Dark Humor,My motivation is on airplane mode,7349,2762,168,98012,Negative,33,High
+M0261,Reaction,When someone says this will be easy,3449,1201,277,63796,Neutral,35,Medium
+M0262,Relatable,That feeling when the weekend finally arrives,3865,737,157,59474,Positive,45,Medium
+M0263,Relatable,When the WiFi stops working during submission,4539,341,157,93998,Neutral,45,Low
+M0264,Wholesome,A little progress is still progress,691,140,102,31652,Neutral,35,Low
+M0265,Dank,Reality.exe has stopped responding,7211,1450,955,128128,Neutral,34,Medium
+M0266,Wholesome,A little progress is still progress,2295,272,93,21013,Positive,35,Medium
+M0267,Relatable,I said five more minutes and woke up tomorrow,2284,621,198,71236,Positive,45,Low
+M0268,Wholesome,When your friend saves you a seat,8342,424,141,98583,Negative,33,Medium
+M0269,Reaction,When someone says this will be easy,5096,1078,591,139678,Negative,35,Low
+M0270,Reaction,When the group project actually has teamwork,6916,1369,331,90432,Negative,44,Medium
+M0271,Wholesome,When someone remembers the small details,627,199,12,20275,Negative,40,Low
+M0272,Dark Humor,The deadline is approaching faster than my hopes,176,71,17,78526,Negative,48,Low
+M0273,Dark Humor,My motivation is on airplane mode,8987,2113,1266,116835,Positive,33,High
+M0274,Relatable,When the WiFi stops working during submission,162,45,6,26208,Negative,45,Low
+M0275,Relatable,That feeling when the weekend finally arrives,677,84,46,45524,Neutral,45,Low
+M0276,Dank,The universe has selected chaos,1331,522,73,102089,Positive,31,Low
+M0277,Wholesome,The best team is the one that supports you,347,51,33,51900,Neutral,42,Low
+M0278,Reaction,When the group project actually has teamwork,1414,595,33,54433,Neutral,44,Low
+M0279,Dark Humor,My sleep schedule has left the chat,1546,139,199,113096,Positive,35,Low
+M0280,Dark Humor,Everything is fine said the burning laptop,1368,349,204,16556,Negative,42,High
+M0281,Dank,Unexpected plot twist unlocked,2148,921,194,66669,Positive,30,Medium
+M0282,Reaction,That look when the teacher says surprise test,386,170,30,7104,Negative,45,Medium
+M0283,Relatable,Me opening the book one day before the exam,6237,1266,572,79860,Neutral,43,Medium
+M0284,Dark Humor,Everything is fine said the burning laptop,883,105,21,74303,Neutral,42,Low
+M0285,Wholesome,A small kindness can change someone's day,5699,1182,401,119879,Positive,41,Medium
+M0286,Reaction,When someone says this will be easy,9662,4081,626,129988,Negative,35,High
+M0287,Wholesome,A little progress is still progress,5017,1150,512,116054,Negative,35,Medium
+M0288,Dank,Task failed successfully,2162,392,136,49724,Negative,24,Low
+M0289,Wholesome,A small kindness can change someone's day,1573,313,62,80055,Positive,41,Low
+M0290,Wholesome,A little progress is still progress,880,128,110,14648,Positive,35,Medium
+M0291,Reaction,Me pretending I understood the lecture,8776,540,1249,145613,Positive,38,Medium
+M0292,Dank,When the side quest becomes the main quest,6592,1828,70,139161,Negative,42,Medium
+M0293,Relatable,When the WiFi stops working during submission,5887,299,671,92683,Positive,45,Medium
+M0294,Reaction,My face when the code works on the first try,470,108,5,6262,Neutral,44,Medium
+M0295,Reaction,When the group project actually has teamwork,3370,650,300,85387,Positive,44,Low
+M0296,Reaction,My face when the code works on the first try,2294,820,182,118104,Negative,44,Low
+M0297,Wholesome,The best team is the one that supports you,3709,1449,134,32621,Neutral,42,High
+M0298,Wholesome,The best team is the one that supports you,5496,1063,132,80704,Neutral,42,Medium
+M0299,Reaction,Me pretending I understood the lecture,2695,1193,256,58761,Neutral,38,Medium
+M0300,Relatable,When the WiFi stops working during submission,4296,907,114,121738,Neutral,45,Low
+M0301,Dank,Unexpected plot twist unlocked,8269,1360,1094,132240,Neutral,30,Medium
+M0302,Relatable,When the WiFi stops working during submission,580,133,61,119315,Positive,45,Low
+M0303,Dank,When the side quest becomes the main quest,4739,1391,73,87171,Positive,42,Medium
+M0304,Dank,Task failed successfully,1066,136,31,24927,Negative,24,Low
+M0305,Wholesome,When someone remembers the small details,1958,838,130,86347,Negative,40,Low
+M0306,Dark Humor,My sleep schedule has left the chat,2766,202,280,28676,Positive,35,Medium
+M0307,Dark Humor,My motivation is on airplane mode,8008,1735,120,148615,Neutral,33,Medium
+M0308,Wholesome,A small kindness can change someone's day,8588,3719,134,130775,Neutral,41,High
+M0309,Dank,Unexpected plot twist unlocked,1138,66,160,30915,Neutral,30,Low
+M0310,Reaction,That look when the teacher says surprise test,5673,366,719,106016,Negative,45,Low
+M0311,Relatable,That feeling when the weekend finally arrives,8851,2413,580,140573,Positive,45,Medium
+M0312,Dank,Unexpected plot twist unlocked,660,288,35,23785,Positive,30,Medium
+M0313,Relatable,Me opening the book one day before the exam,4312,339,566,118795,Positive,43,Low
+M0314,Dark Humor,My bank account tells horror stories,2253,991,288,28809,Neutral,36,High
+M0315,Reaction,When someone says this will be easy,900,237,77,54613,Negative,35,Low
+M0316,Relatable,When the assignment deadline is in two hours,15090,4964,1171,141535,Neutral,44,High
+M0317,Dark Humor,The deadline is approaching faster than my hopes,2207,442,49,68770,Negative,48,Low
+M0318,Reaction,When the group project actually has teamwork,773,172,108,68732,Negative,44,Low
+M0319,Wholesome,A small kindness can change someone's day,541,67,79,125356,Neutral,41,Low
+M0320,Relatable,When the assignment deadline is in two hours,1991,843,292,92027,Neutral,44,Low
+M0321,Dark Humor,My bank account tells horror stories,34,2,1,6576,Negative,36,Low
+M0322,Relatable,Me opening the book one day before the exam,2386,620,232,35835,Positive,43,Medium
+M0323,Reaction,When the group project actually has teamwork,9215,3633,1316,119559,Positive,44,High
+M0324,Dark Humor,My bank account tells horror stories,698,92,49,30679,Positive,36,Low
+M0325,Dank,Reality.exe has stopped responding,3909,1022,139,93328,Neutral,34,Medium
+M0326,Wholesome,The best team is the one that supports you,4745,1498,336,141881,Positive,42,Medium
+M0327,Reaction,My face when the code works on the first try,5920,2510,214,121294,Neutral,44,Medium
+M0328,Wholesome,A small kindness can change someone's day,411,103,33,34682,Negative,41,Low
+M0329,Dark Humor,The deadline is approaching faster than my hopes,12182,2874,841,140543,Negative,48,High
+M0330,Dark Humor,My sleep schedule has left the chat,593,79,58,65781,Positive,35,Low
+M0331,Dark Humor,The deadline is approaching faster than my hopes,7759,3163,594,91869,Neutral,48,High
+M0332,Wholesome,The best team is the one that supports you,78,23,9,8099,Neutral,42,Low
+M0333,Wholesome,When someone remembers the small details,9751,2912,572,135557,Positive,40,Medium
+M0334,Wholesome,A small kindness can change someone's day,4298,1864,266,64511,Negative,41,High
+M0335,Dark Humor,My motivation is on airplane mode,6510,2226,484,90060,Positive,33,High
+M0336,Wholesome,When someone remembers the small details,1594,149,60,64049,Positive,40,Low
+M0337,Reaction,My face when the code works on the first try,4824,732,123,56403,Negative,44,Medium
+M0338,Relatable,When the WiFi stops working during submission,5942,719,301,94210,Neutral,45,Medium
+M0339,Dark Humor,My bank account tells horror stories,4597,1518,158,49545,Negative,36,High
+M0340,Wholesome,A small kindness can change someone's day,2605,261,125,79644,Positive,41,Low
+M0341,Dark Humor,My bank account tells horror stories,530,174,10,37630,Positive,36,Low
+M0342,Dark Humor,The deadline is approaching faster than my hopes,2457,851,304,46595,Neutral,48,Medium
+M0343,Wholesome,A small kindness can change someone's day,1847,347,64,31310,Positive,41,Medium
+M0344,Reaction,That look when the teacher says surprise test,2650,367,305,67511,Neutral,45,Low
+M0345,Dank,Unexpected plot twist unlocked,506,111,26,26615,Neutral,30,Low
+M0346,Relatable,That feeling when the weekend finally arrives,1311,462,183,47420,Negative,45,Low
+M0347,Relatable,When the WiFi stops working during submission,4016,1805,385,55061,Positive,45,High
+M0348,Wholesome,A small kindness can change someone's day,7641,2785,569,74940,Neutral,41,High
+M0349,Dank,Reality.exe has stopped responding,459,111,30,114152,Neutral,34,Low
+M0350,Dark Humor,My bank account tells horror stories,671,257,16,12632,Neutral,36,Medium
+M0351,Dark Humor,The deadline is approaching faster than my hopes,9439,4227,1247,107082,Negative,48,High
+M0352,Wholesome,When your friend saves you a seat,2323,475,110,34164,Negative,33,Medium
+M0353,Reaction,That look when the teacher says surprise test,9062,2431,466,123418,Negative,45,Medium
+M0354,Dank,When the side quest becomes the main quest,1221,77,174,91141,Neutral,42,Low
+M0355,Dank,Task failed successfully,9609,1140,332,114950,Negative,24,Medium
+M0356,Wholesome,The best team is the one that supports you,3622,1501,107,60730,Neutral,42,Medium
+M0357,Dark Humor,My sleep schedule has left the chat,2638,404,382,45263,Negative,35,Medium
+M0358,Dark Humor,My bank account tells horror stories,2445,531,111,101817,Neutral,36,Low
+M0359,Wholesome,When your friend saves you a seat,7276,2782,289,116454,Negative,33,Medium
+M0360,Reaction,My face when the code works on the first try,381,170,5,116480,Negative,44,Low
+M0361,Dark Humor,My bank account tells horror stories,1826,139,119,31720,Neutral,36,Low
+M0362,Wholesome,A little progress is still progress,1903,223,71,31595,Negative,35,Medium
+M0363,Dank,The universe has selected chaos,4676,1418,498,84873,Neutral,31,Medium
+M0364,Wholesome,When your friend saves you a seat,5006,1028,697,61802,Negative,33,High
+M0365,Relatable,I said five more minutes and woke up tomorrow,861,68,65,11193,Neutral,45,Medium
+M0366,Wholesome,A little progress is still progress,570,131,28,37258,Negative,35,Low
+M0367,Dank,Reality.exe has stopped responding,2858,426,138,29239,Positive,34,Medium
+M0368,Dank,When the side quest becomes the main quest,2147,916,142,119511,Neutral,42,Low
+M0369,Dark Humor,My sleep schedule has left the chat,9688,527,316,139527,Negative,35,Low
+M0370,Relatable,That feeling when the weekend finally arrives,2353,297,325,34091,Negative,45,Medium
+M0371,Relatable,When the WiFi stops working during submission,5558,337,730,92327,Negative,45,Medium
+M0372,Dank,Task failed successfully,3999,1405,111,127724,Negative,24,Low
+M0373,Dark Humor,My motivation is on airplane mode,1804,398,239,18703,Neutral,33,High
+M0374,Wholesome,A small kindness can change someone's day,6589,2480,757,117235,Negative,41,Medium
+M0375,Reaction,My face when the code works on the first try,967,238,78,93332,Negative,44,Low
+M0376,Wholesome,When someone remembers the small details,2107,764,290,43534,Positive,40,Medium
+M0377,Reaction,Me pretending I understood the lecture,8869,2256,322,119827,Positive,38,Medium
+M0378,Dark Humor,Everything is fine said the burning laptop,3520,1182,487,37385,Neutral,42,High
+M0379,Relatable,When the assignment deadline is in two hours,862,201,127,23934,Positive,44,Medium
+M0380,Relatable,When the assignment deadline is in two hours,1485,592,73,147635,Positive,44,Low
+M0381,Dark Humor,My sleep schedule has left the chat,3710,1492,193,77727,Positive,35,Medium
+M0382,Dark Humor,My sleep schedule has left the chat,7131,2058,728,118275,Negative,35,Medium
+M0383,Dark Humor,My motivation is on airplane mode,540,179,48,140259,Negative,33,Low
+M0384,Dank,The universe has selected chaos,3790,692,496,124524,Neutral,31,Low
+M0385,Wholesome,When someone remembers the small details,5451,331,626,112687,Neutral,40,Low
+M0386,Dank,The universe has selected chaos,160,55,21,5118,Positive,31,Medium
+M0387,Relatable,That feeling when the weekend finally arrives,2603,366,110,45042,Negative,45,Medium
+M0388,Reaction,That look when the teacher says surprise test,221,73,21,32780,Negative,45,Low
+M0389,Reaction,That look when the teacher says surprise test,2647,593,263,56050,Positive,45,Medium
+M0390,Wholesome,The best team is the one that supports you,2855,1064,168,111727,Negative,42,Low
+M0391,Dark Humor,My sleep schedule has left the chat,2892,1186,402,145716,Negative,35,Low
+M0392,Dark Humor,My bank account tells horror stories,2052,260,46,87002,Positive,36,Low
+M0393,Relatable,When the assignment deadline is in two hours,341,23,9,28516,Negative,44,Low
+M0394,Reaction,When someone says this will be easy,1431,511,140,18456,Neutral,35,High
+M0395,Wholesome,The best team is the one that supports you,3584,1190,260,61695,Negative,42,Medium
+M0396,Dark Humor,Everything is fine said the burning laptop,4169,456,506,132385,Negative,42,Low
+M0397,Wholesome,A small kindness can change someone's day,1515,583,85,117321,Positive,41,Low
+M0398,Wholesome,When someone remembers the small details,3043,218,356,39475,Negative,40,Medium
+M0399,Reaction,When someone says this will be easy,757,312,38,31375,Neutral,35,Low
+M0400,Dark Humor,My sleep schedule has left the chat,2018,539,195,46495,Neutral,35,Medium
+M0401,Wholesome,The best team is the one that supports you,2754,893,287,67067,Positive,42,Medium
+M0402,Reaction,Me pretending I understood the lecture,3859,861,259,91745,Neutral,38,Medium
+M0403,Wholesome,The best team is the one that supports you,1361,468,58,65559,Positive,42,Low
+M0404,Reaction,When someone says this will be easy,1022,359,77,13463,Positive,35,High
+M0405,Dank,When the side quest becomes the main quest,5925,1431,497,81304,Negative,42,Medium
+M0406,Dank,Task failed successfully,4763,330,391,75129,Neutral,24,Medium
+M0407,Relatable,I said five more minutes and woke up tomorrow,8131,1886,1176,100459,Negative,45,High
+M0408,Relatable,That feeling when the weekend finally arrives,2291,295,53,72497,Negative,45,Low
+M0409,Dank,Task failed successfully,4176,1422,60,88266,Negative,24,Medium
+M0410,Dark Humor,The deadline is approaching faster than my hopes,22,9,0,584,Positive,48,Medium
+M0411,Dank,The universe has selected chaos,2041,426,237,60555,Neutral,31,Low
+M0412,Dark Humor,My bank account tells horror stories,2734,670,316,94182,Neutral,36,Low
+M0413,Dark Humor,Everything is fine said the burning laptop,5203,820,234,74067,Negative,42,Medium
+M0414,Wholesome,The best team is the one that supports you,3401,1521,505,127534,Neutral,42,Medium
+M0415,Dark Humor,My sleep schedule has left the chat,1216,513,46,16848,Negative,35,High
+M0416,Relatable,When the WiFi stops working during submission,4706,773,336,79252,Positive,45,Medium
+M0417,Wholesome,When someone remembers the small details,4113,1510,196,36614,Negative,40,High
+M0418,Relatable,When the assignment deadline is in two hours,4603,1242,371,147850,Positive,44,Low
+M0419,Dark Humor,My bank account tells horror stories,3840,678,216,86567,Positive,36,Low
+M0420,Wholesome,The best team is the one that supports you,1006,391,72,95682,Neutral,42,Low
+M0421,Dark Humor,My bank account tells horror stories,625,30,33,8921,Negative,36,Medium
+M0422,Dark Humor,My sleep schedule has left the chat,686,104,13,34566,Neutral,35,Low
+M0423,Dank,Reality.exe has stopped responding,68,26,2,2010,Positive,34,Medium
+M0424,Reaction,When the group project actually has teamwork,455,100,9,8712,Negative,44,Medium
+M0425,Reaction,That look when the teacher says surprise test,3459,391,472,68055,Neutral,45,Medium
+M0426,Relatable,When the assignment deadline is in two hours,4455,548,456,120511,Neutral,44,Low
+M0427,Dark Humor,The deadline is approaching faster than my hopes,1544,374,80,21574,Positive,48,Medium
+M0428,Dank,Task failed successfully,4245,560,69,108860,Positive,24,Low
+M0429,Dark Humor,The deadline is approaching faster than my hopes,666,146,66,16170,Positive,48,Medium
+M0430,Relatable,When the WiFi stops working during submission,3498,1302,383,53155,Neutral,45,High
+M0431,Dank,Reality.exe has stopped responding,341,47,5,7353,Negative,34,Low
+M0432,Dark Humor,My bank account tells horror stories,334,70,11,15868,Negative,36,Low
+M0433,Reaction,That look when the teacher says surprise test,1367,575,17,21384,Negative,45,High
+M0434,Relatable,When the assignment deadline is in two hours,13417,602,1567,123750,Neutral,44,Medium
+M0435,Wholesome,The best team is the one that supports you,11533,3063,241,107429,Positive,42,High
+M0436,Dark Humor,Everything is fine said the burning laptop,11850,3460,810,145545,Negative,42,High
+M0437,Wholesome,When your friend saves you a seat,1784,126,200,95905,Negative,33,Low
+M0438,Relatable,I said five more minutes and woke up tomorrow,6330,1576,339,85990,Neutral,45,Medium
+M0439,Dark Humor,My sleep schedule has left the chat,8218,917,334,139217,Negative,35,Medium
+M0440,Dark Humor,Everything is fine said the burning laptop,8131,2772,326,145434,Positive,42,Medium
+M0441,Wholesome,A small kindness can change someone's day,6242,868,603,142055,Neutral,41,Low
+M0442,Dank,When the side quest becomes the main quest,8689,2816,1287,129004,Positive,42,High
+M0443,Relatable,I said five more minutes and woke up tomorrow,945,169,18,81576,Positive,45,Low
+M0444,Dank,When the side quest becomes the main quest,1179,184,67,23014,Positive,42,Medium
+M0445,Relatable,That feeling when the weekend finally arrives,254,56,36,4319,Positive,45,Medium
+M0446,Reaction,That look when the teacher says surprise test,5326,2145,418,126932,Positive,45,Medium
+M0447,Dark Humor,Everything is fine said the burning laptop,766,45,38,42781,Neutral,42,Low
+M0448,Relatable,I said five more minutes and woke up tomorrow,304,63,25,21675,Positive,45,Low
+M0449,Dank,When the side quest becomes the main quest,241,46,24,40694,Negative,42,Low
+M0450,Dank,Task failed successfully,328,46,24,42305,Neutral,24,Low
+M0451,Relatable,When the WiFi stops working during submission,3200,823,297,48896,Positive,45,Medium
+M0452,Dark Humor,Everything is fine said the burning laptop,276,50,19,59413,Neutral,42,Low
+M0453,Dark Humor,My sleep schedule has left the chat,10179,500,958,110833,Positive,35,Medium
+M0454,Dark Humor,My sleep schedule has left the chat,886,321,87,15492,Positive,35,Medium
+M0455,Wholesome,When someone remembers the small details,2350,522,203,40793,Positive,40,Medium
+M0456,Relatable,When the assignment deadline is in two hours,1874,833,22,139409,Negative,44,Low
+M0457,Dark Humor,My bank account tells horror stories,789,186,115,12136,Neutral,36,Medium
+M0458,Relatable,When the assignment deadline is in two hours,2155,131,306,68149,Neutral,44,Low
+M0459,Dank,When the side quest becomes the main quest,4746,1014,665,147810,Positive,42,Low
+M0460,Reaction,When someone says this will be easy,2462,359,198,40238,Negative,35,Medium
+M0461,Relatable,Me opening the book one day before the exam,3750,1465,242,109042,Negative,43,Medium
+M0462,Wholesome,A little progress is still progress,8336,970,435,128999,Neutral,35,Medium
+M0463,Relatable,When the assignment deadline is in two hours,858,273,30,30364,Neutral,44,Low
+M0464,Wholesome,A small kindness can change someone's day,256,47,15,5144,Positive,41,Medium
+M0465,Dark Humor,My bank account tells horror stories,1753,682,157,45868,Positive,36,Medium
+M0466,Relatable,When the WiFi stops working during submission,2915,526,45,107654,Negative,45,Low
+M0467,Reaction,When the group project actually has teamwork,915,316,25,84900,Neutral,44,Low
+M0468,Dark Humor,The deadline is approaching faster than my hopes,7017,2025,768,74442,Neutral,48,High
+M0469,Reaction,When someone says this will be easy,4845,517,400,62672,Negative,35,Medium
+M0470,Reaction,When the group project actually has teamwork,3956,1152,47,107181,Negative,44,Low
+M0471,Relatable,Me opening the book one day before the exam,193,16,8,11480,Neutral,43,Low
+M0472,Reaction,That look when the teacher says surprise test,2398,370,88,139186,Negative,45,Low
+M0473,Wholesome,When your friend saves you a seat,4301,750,97,136910,Negative,33,Low
+M0474,Dark Humor,The deadline is approaching faster than my hopes,219,76,32,57103,Negative,48,Low
+M0475,Wholesome,A small kindness can change someone's day,2480,419,293,53004,Negative,41,Medium
+M0476,Wholesome,The best team is the one that supports you,11835,4818,838,139314,Neutral,42,High
+M0477,Dark Humor,My motivation is on airplane mode,1151,484,26,18714,Positive,33,Medium
+M0478,Wholesome,A small kindness can change someone's day,12056,943,1228,115147,Positive,41,Medium
+M0479,Relatable,Me opening the book one day before the exam,1703,488,221,20446,Negative,43,High
+M0480,Relatable,I said five more minutes and woke up tomorrow,52,10,0,5609,Positive,45,Low
+M0481,Reaction,Me pretending I understood the lecture,2315,496,308,99054,Neutral,38,Low
+M0482,Reaction,When the group project actually has teamwork,2240,480,125,67508,Negative,44,Low
+M0483,Relatable,When the assignment deadline is in two hours,3512,864,109,111188,Negative,44,Low
+M0484,Wholesome,A small kindness can change someone's day,2595,543,325,75625,Negative,41,Low
+M0485,Reaction,When someone says this will be easy,14927,6518,1900,144774,Negative,35,High
+M0486,Relatable,That feeling when the weekend finally arrives,589,64,73,38879,Neutral,45,Low
+M0487,Dank,The universe has selected chaos,1516,132,134,45847,Neutral,31,Low
+M0488,Wholesome,When your friend saves you a seat,3830,1092,475,87832,Positive,33,Medium
+M0489,Dark Humor,My bank account tells horror stories,89,27,2,2331,Negative,36,Medium
+M0490,Relatable,I said five more minutes and woke up tomorrow,1126,130,62,10595,Neutral,45,Medium
+M0491,Dank,Reality.exe has stopped responding,1135,118,27,18531,Neutral,34,Medium
+M0492,Reaction,When the group project actually has teamwork,7520,2990,583,88351,Neutral,44,High
+M0493,Reaction,Me pretending I understood the lecture,851,358,121,115745,Neutral,38,Low
+M0494,Dark Humor,My sleep schedule has left the chat,3662,825,249,138392,Positive,35,Low
+M0495,Dark Humor,My motivation is on airplane mode,3027,996,58,46504,Negative,33,Medium
+M0496,Dark Humor,My sleep schedule has left the chat,194,34,19,28911,Positive,35,Low
+M0497,Dank,When the side quest becomes the main quest,6636,2649,193,67136,Neutral,42,High
+M0498,Wholesome,A small kindness can change someone's day,395,102,20,14556,Positive,41,Low
+M0499,Relatable,Me opening the book one day before the exam,3523,698,132,125437,Neutral,43,Low
+M0500,Reaction,That look when the teacher says surprise test,261,51,15,9564,Negative,45,Low
+U10001,Classic Freeform,User Uploaded Meme,957,229,47,13380,Neutral,0,Medium,data\uploads\user_10001_images_(2).jpg

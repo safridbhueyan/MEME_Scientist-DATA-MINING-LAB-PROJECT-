@@ -1,0 +1,601 @@
+comment_id,comment,sentiment
+C0001,This was disappointing,Negative
+C0002,The joke does not make sense,Negative
+C0003,Not a good meme,Negative
+C0004,I understand the reference,Neutral
+C0005,The image is from yesterday,Neutral
+C0006,"Made my day, great meme",Positive
+C0007,"This is so funny, I love it",Positive
+C0008,The image is from yesterday,Neutral
+C0009,This was disappointing,Negative
+C0010,The caption has twelve words,Neutral
+C0011,This was disappointing,Negative
+C0012,Not a good meme,Negative
+C0013,Absolutely relatable and brilliant,Positive
+C0014,Please stop posting this,Negative
+C0015,I laughed so hard at this,Positive
+C0016,This is one of the available categories,Neutral
+C0017,Posted at around eight in the evening,Neutral
+C0018,This deserves more likes,Positive
+C0019,This is not funny at all,Negative
+C0020,This deserves more likes,Positive
+C0021,This is boring and repetitive,Negative
+C0022,I laughed so hard at this,Positive
+C0023,I disagree with this completely,Negative
+C0024,"This is so funny, I love it",Positive
+C0025,Please stop posting this,Negative
+C0026,"Made my day, great meme",Positive
+C0027,This is boring and repetitive,Negative
+C0028,I understand the reference,Neutral
+C0029,That is actually hilarious,Positive
+C0030,I have seen this format before,Neutral
+C0031,This is not funny at all,Negative
+C0032,I really dislike this post,Negative
+C0033,Please stop posting this,Negative
+C0034,The caption has twelve words,Neutral
+C0035,The caption has twelve words,Neutral
+C0036,I really dislike this post,Negative
+C0037,This is not funny at all,Negative
+C0038,The joke does not make sense,Negative
+C0039,This is one of the available categories,Neutral
+C0040,I understand the reference,Neutral
+C0041,That is actually hilarious,Positive
+C0042,This deserves more likes,Positive
+C0043,Please stop posting this,Negative
+C0044,The image is from yesterday,Neutral
+C0045,Not a good meme,Negative
+C0046,I understand the reference,Neutral
+C0047,Wholesome and lovely,Positive
+C0048,Absolutely relatable and brilliant,Positive
+C0049,The image is from yesterday,Neutral
+C0050,Interesting choice of caption,Neutral
+C0051,I disagree with this completely,Negative
+C0052,This is a common meme template,Neutral
+C0053,Absolutely relatable and brilliant,Positive
+C0054,I laughed so hard at this,Positive
+C0055,"Made my day, great meme",Positive
+C0056,This is a common meme template,Neutral
+C0057,The image is from yesterday,Neutral
+C0058,Perfect meme for today,Positive
+C0059,This was disappointing,Negative
+C0060,I understand the reference,Neutral
+C0061,I understand the reference,Neutral
+C0062,Perfect meme for today,Positive
+C0063,Perfect meme for today,Positive
+C0064,Not a good meme,Negative
+C0065,This is not funny at all,Negative
+C0066,I really dislike this post,Negative
+C0067,This was disappointing,Negative
+C0068,This is not funny at all,Negative
+C0069,Wholesome and lovely,Positive
+C0070,I really dislike this post,Negative
+C0071,The image is from yesterday,Neutral
+C0072,The caption has twelve words,Neutral
+C0073,This is not funny at all,Negative
+C0074,This is boring and repetitive,Negative
+C0075,This was disappointing,Negative
+C0076,This is a common meme template,Neutral
+C0077,Perfect meme for today,Positive
+C0078,Wholesome and lovely,Positive
+C0079,The image is from yesterday,Neutral
+C0080,This is a common meme template,Neutral
+C0081,This deserves more likes,Positive
+C0082,This is one of the available categories,Neutral
+C0083,The joke does not make sense,Negative
+C0084,I disagree with this completely,Negative
+C0085,Please stop posting this,Negative
+C0086,I disagree with this completely,Negative
+C0087,I have seen this format before,Neutral
+C0088,I understand the reference,Neutral
+C0089,Wholesome and lovely,Positive
+C0090,That is actually hilarious,Positive
+C0091,Not a good meme,Negative
+C0092,This is a common meme template,Neutral
+C0093,I really dislike this post,Negative
+C0094,This is a common meme template,Neutral
+C0095,Not a good meme,Negative
+C0096,The caption has twelve words,Neutral
+C0097,Absolutely relatable and brilliant,Positive
+C0098,Please stop posting this,Negative
+C0099,I understand the reference,Neutral
+C0100,Absolutely relatable and brilliant,Positive
+C0101,The caption has twelve words,Neutral
+C0102,I understand the reference,Neutral
+C0103,Wholesome and lovely,Positive
+C0104,The joke does not make sense,Negative
+C0105,Wholesome and lovely,Positive
+C0106,This is boring and repetitive,Negative
+C0107,"Made my day, great meme",Positive
+C0108,Absolutely relatable and brilliant,Positive
+C0109,I really dislike this post,Negative
+C0110,I have seen this format before,Neutral
+C0111,I understand the reference,Neutral
+C0112,This is a common meme template,Neutral
+C0113,The caption has twelve words,Neutral
+C0114,"Made my day, great meme",Positive
+C0115,"Made my day, great meme",Positive
+C0116,This is one of the available categories,Neutral
+C0117,That is actually hilarious,Positive
+C0118,This is boring and repetitive,Negative
+C0119,Not a good meme,Negative
+C0120,This is one of the available categories,Neutral
+C0121,This deserves more likes,Positive
+C0122,This was disappointing,Negative
+C0123,Wholesome and lovely,Positive
+C0124,This is one of the available categories,Neutral
+C0125,Not a good meme,Negative
+C0126,Please stop posting this,Negative
+C0127,This deserves more likes,Positive
+C0128,This is a common meme template,Neutral
+C0129,This is not funny at all,Negative
+C0130,This is one of the available categories,Neutral
+C0131,I really dislike this post,Negative
+C0132,The image is from yesterday,Neutral
+C0133,I really dislike this post,Negative
+C0134,I laughed so hard at this,Positive
+C0135,The joke does not make sense,Negative
+C0136,I really dislike this post,Negative
+C0137,Perfect meme for today,Positive
+C0138,This is not funny at all,Negative
+C0139,This is not funny at all,Negative
+C0140,I disagree with this completely,Negative
+C0141,That is actually hilarious,Positive
+C0142,Wholesome and lovely,Positive
+C0143,"This is so funny, I love it",Positive
+C0144,I really dislike this post,Negative
+C0145,I understand the reference,Neutral
+C0146,"Made my day, great meme",Positive
+C0147,I laughed so hard at this,Positive
+C0148,The joke does not make sense,Negative
+C0149,This is one of the available categories,Neutral
+C0150,This is not funny at all,Negative
+C0151,"This is so funny, I love it",Positive
+C0152,This is boring and repetitive,Negative
+C0153,That is actually hilarious,Positive
+C0154,I laughed so hard at this,Positive
+C0155,I laughed so hard at this,Positive
+C0156,"This is so funny, I love it",Positive
+C0157,That is actually hilarious,Positive
+C0158,This is one of the available categories,Neutral
+C0159,Absolutely relatable and brilliant,Positive
+C0160,This is not funny at all,Negative
+C0161,Interesting choice of caption,Neutral
+C0162,This is a common meme template,Neutral
+C0163,Please stop posting this,Negative
+C0164,Wholesome and lovely,Positive
+C0165,That is actually hilarious,Positive
+C0166,Absolutely relatable and brilliant,Positive
+C0167,I understand the reference,Neutral
+C0168,"This is so funny, I love it",Positive
+C0169,This was disappointing,Negative
+C0170,That is actually hilarious,Positive
+C0171,Not a good meme,Negative
+C0172,I have seen this format before,Neutral
+C0173,I really dislike this post,Negative
+C0174,This is boring and repetitive,Negative
+C0175,The image is from yesterday,Neutral
+C0176,I understand the reference,Neutral
+C0177,"This is so funny, I love it",Positive
+C0178,I disagree with this completely,Negative
+C0179,This is a common meme template,Neutral
+C0180,This is one of the available categories,Neutral
+C0181,This is one of the available categories,Neutral
+C0182,This is a common meme template,Neutral
+C0183,Absolutely relatable and brilliant,Positive
+C0184,This is one of the available categories,Neutral
+C0185,I laughed so hard at this,Positive
+C0186,"This is so funny, I love it",Positive
+C0187,"This is so funny, I love it",Positive
+C0188,Not a good meme,Negative
+C0189,The caption has twelve words,Neutral
+C0190,This is one of the available categories,Neutral
+C0191,This is not funny at all,Negative
+C0192,Interesting choice of caption,Neutral
+C0193,I disagree with this completely,Negative
+C0194,Wholesome and lovely,Positive
+C0195,I really dislike this post,Negative
+C0196,Please stop posting this,Negative
+C0197,This was disappointing,Negative
+C0198,I disagree with this completely,Negative
+C0199,Perfect meme for today,Positive
+C0200,This is one of the available categories,Neutral
+C0201,Not a good meme,Negative
+C0202,That is actually hilarious,Positive
+C0203,That is actually hilarious,Positive
+C0204,This is a common meme template,Neutral
+C0205,Posted at around eight in the evening,Neutral
+C0206,I really dislike this post,Negative
+C0207,Wholesome and lovely,Positive
+C0208,Posted at around eight in the evening,Neutral
+C0209,This was disappointing,Negative
+C0210,The caption has twelve words,Neutral
+C0211,Perfect meme for today,Positive
+C0212,This was disappointing,Negative
+C0213,Wholesome and lovely,Positive
+C0214,The caption has twelve words,Neutral
+C0215,This is not funny at all,Negative
+C0216,That is actually hilarious,Positive
+C0217,The joke does not make sense,Negative
+C0218,"Made my day, great meme",Positive
+C0219,This is one of the available categories,Neutral
+C0220,"Made my day, great meme",Positive
+C0221,This deserves more likes,Positive
+C0222,I understand the reference,Neutral
+C0223,Please stop posting this,Negative
+C0224,I have seen this format before,Neutral
+C0225,This is a common meme template,Neutral
+C0226,This is one of the available categories,Neutral
+C0227,I disagree with this completely,Negative
+C0228,I really dislike this post,Negative
+C0229,This is a common meme template,Neutral
+C0230,I understand the reference,Neutral
+C0231,I disagree with this completely,Negative
+C0232,Posted at around eight in the evening,Neutral
+C0233,Absolutely relatable and brilliant,Positive
+C0234,"Made my day, great meme",Positive
+C0235,Please stop posting this,Negative
+C0236,The image is from yesterday,Neutral
+C0237,Not a good meme,Negative
+C0238,This is one of the available categories,Neutral
+C0239,I laughed so hard at this,Positive
+C0240,This is one of the available categories,Neutral
+C0241,Absolutely relatable and brilliant,Positive
+C0242,Absolutely relatable and brilliant,Positive
+C0243,The joke does not make sense,Negative
+C0244,This is one of the available categories,Neutral
+C0245,Wholesome and lovely,Positive
+C0246,I understand the reference,Neutral
+C0247,The image is from yesterday,Neutral
+C0248,Posted at around eight in the evening,Neutral
+C0249,The joke does not make sense,Negative
+C0250,This is a common meme template,Neutral
+C0251,This is boring and repetitive,Negative
+C0252,This deserves more likes,Positive
+C0253,This deserves more likes,Positive
+C0254,This is not funny at all,Negative
+C0255,I disagree with this completely,Negative
+C0256,The joke does not make sense,Negative
+C0257,The image is from yesterday,Neutral
+C0258,I laughed so hard at this,Positive
+C0259,This was disappointing,Negative
+C0260,The caption has twelve words,Neutral
+C0261,I really dislike this post,Negative
+C0262,Wholesome and lovely,Positive
+C0263,The image is from yesterday,Neutral
+C0264,This was disappointing,Negative
+C0265,I understand the reference,Neutral
+C0266,"Made my day, great meme",Positive
+C0267,That is actually hilarious,Positive
+C0268,I have seen this format before,Neutral
+C0269,"Made my day, great meme",Positive
+C0270,The joke does not make sense,Negative
+C0271,Wholesome and lovely,Positive
+C0272,Interesting choice of caption,Neutral
+C0273,Not a good meme,Negative
+C0274,I laughed so hard at this,Positive
+C0275,I laughed so hard at this,Positive
+C0276,I laughed so hard at this,Positive
+C0277,The image is from yesterday,Neutral
+C0278,This is a common meme template,Neutral
+C0279,This is a common meme template,Neutral
+C0280,Wholesome and lovely,Positive
+C0281,I have seen this format before,Neutral
+C0282,Absolutely relatable and brilliant,Positive
+C0283,I laughed so hard at this,Positive
+C0284,Interesting choice of caption,Neutral
+C0285,The caption has twelve words,Neutral
+C0286,I have seen this format before,Neutral
+C0287,Not a good meme,Negative
+C0288,Posted at around eight in the evening,Neutral
+C0289,This is boring and repetitive,Negative
+C0290,The caption has twelve words,Neutral
+C0291,This was disappointing,Negative
+C0292,"This is so funny, I love it",Positive
+C0293,Perfect meme for today,Positive
+C0294,This was disappointing,Negative
+C0295,This is boring and repetitive,Negative
+C0296,The joke does not make sense,Negative
+C0297,I disagree with this completely,Negative
+C0298,I understand the reference,Neutral
+C0299,The joke does not make sense,Negative
+C0300,I really dislike this post,Negative
+C0301,This is boring and repetitive,Negative
+C0302,I really dislike this post,Negative
+C0303,This was disappointing,Negative
+C0304,"Made my day, great meme",Positive
+C0305,"This is so funny, I love it",Positive
+C0306,Please stop posting this,Negative
+C0307,The caption has twelve words,Neutral
+C0308,"Made my day, great meme",Positive
+C0309,I disagree with this completely,Negative
+C0310,"Made my day, great meme",Positive
+C0311,This was disappointing,Negative
+C0312,Not a good meme,Negative
+C0313,This is not funny at all,Negative
+C0314,That is actually hilarious,Positive
+C0315,This is one of the available categories,Neutral
+C0316,This deserves more likes,Positive
+C0317,I understand the reference,Neutral
+C0318,"This is so funny, I love it",Positive
+C0319,This was disappointing,Negative
+C0320,This is one of the available categories,Neutral
+C0321,This is not funny at all,Negative
+C0322,That is actually hilarious,Positive
+C0323,I laughed so hard at this,Positive
+C0324,I understand the reference,Neutral
+C0325,I disagree with this completely,Negative
+C0326,That is actually hilarious,Positive
+C0327,This deserves more likes,Positive
+C0328,Not a good meme,Negative
+C0329,That is actually hilarious,Positive
+C0330,This is one of the available categories,Neutral
+C0331,Posted at around eight in the evening,Neutral
+C0332,The image is from yesterday,Neutral
+C0333,Absolutely relatable and brilliant,Positive
+C0334,I disagree with this completely,Negative
+C0335,I disagree with this completely,Negative
+C0336,This deserves more likes,Positive
+C0337,The caption has twelve words,Neutral
+C0338,I have seen this format before,Neutral
+C0339,"This is so funny, I love it",Positive
+C0340,Wholesome and lovely,Positive
+C0341,This was disappointing,Negative
+C0342,"Made my day, great meme",Positive
+C0343,I disagree with this completely,Negative
+C0344,That is actually hilarious,Positive
+C0345,Posted at around eight in the evening,Neutral
+C0346,I understand the reference,Neutral
+C0347,This is one of the available categories,Neutral
+C0348,Posted at around eight in the evening,Neutral
+C0349,This is not funny at all,Negative
+C0350,I disagree with this completely,Negative
+C0351,The image is from yesterday,Neutral
+C0352,Not a good meme,Negative
+C0353,I have seen this format before,Neutral
+C0354,This is one of the available categories,Neutral
+C0355,This is boring and repetitive,Negative
+C0356,I have seen this format before,Neutral
+C0357,This is one of the available categories,Neutral
+C0358,That is actually hilarious,Positive
+C0359,This deserves more likes,Positive
+C0360,Absolutely relatable and brilliant,Positive
+C0361,"This is so funny, I love it",Positive
+C0362,I disagree with this completely,Negative
+C0363,The joke does not make sense,Negative
+C0364,This is boring and repetitive,Negative
+C0365,This was disappointing,Negative
+C0366,I have seen this format before,Neutral
+C0367,This is a common meme template,Neutral
+C0368,Interesting choice of caption,Neutral
+C0369,I understand the reference,Neutral
+C0370,This is one of the available categories,Neutral
+C0371,The caption has twelve words,Neutral
+C0372,The joke does not make sense,Negative
+C0373,I disagree with this completely,Negative
+C0374,I understand the reference,Neutral
+C0375,Posted at around eight in the evening,Neutral
+C0376,This is one of the available categories,Neutral
+C0377,This deserves more likes,Positive
+C0378,Not a good meme,Negative
+C0379,I laughed so hard at this,Positive
+C0380,This is boring and repetitive,Negative
+C0381,This is one of the available categories,Neutral
+C0382,This was disappointing,Negative
+C0383,Not a good meme,Negative
+C0384,I really dislike this post,Negative
+C0385,The caption has twelve words,Neutral
+C0386,I disagree with this completely,Negative
+C0387,I laughed so hard at this,Positive
+C0388,I laughed so hard at this,Positive
+C0389,The image is from yesterday,Neutral
+C0390,This was disappointing,Negative
+C0391,Posted at around eight in the evening,Neutral
+C0392,This is one of the available categories,Neutral
+C0393,This deserves more likes,Positive
+C0394,Posted at around eight in the evening,Neutral
+C0395,Posted at around eight in the evening,Neutral
+C0396,Absolutely relatable and brilliant,Positive
+C0397,Interesting choice of caption,Neutral
+C0398,"This is so funny, I love it",Positive
+C0399,Interesting choice of caption,Neutral
+C0400,Interesting choice of caption,Neutral
+C0401,Absolutely relatable and brilliant,Positive
+C0402,I disagree with this completely,Negative
+C0403,This is one of the available categories,Neutral
+C0404,"Made my day, great meme",Positive
+C0405,"Made my day, great meme",Positive
+C0406,This was disappointing,Negative
+C0407,This is boring and repetitive,Negative
+C0408,I disagree with this completely,Negative
+C0409,This is not funny at all,Negative
+C0410,This deserves more likes,Positive
+C0411,I have seen this format before,Neutral
+C0412,That is actually hilarious,Positive
+C0413,"This is so funny, I love it",Positive
+C0414,This was disappointing,Negative
+C0415,I laughed so hard at this,Positive
+C0416,"This is so funny, I love it",Positive
+C0417,I really dislike this post,Negative
+C0418,Not a good meme,Negative
+C0419,This was disappointing,Negative
+C0420,Perfect meme for today,Positive
+C0421,This is boring and repetitive,Negative
+C0422,Wholesome and lovely,Positive
+C0423,Perfect meme for today,Positive
+C0424,Posted at around eight in the evening,Neutral
+C0425,This is a common meme template,Neutral
+C0426,Wholesome and lovely,Positive
+C0427,This is boring and repetitive,Negative
+C0428,That is actually hilarious,Positive
+C0429,I disagree with this completely,Negative
+C0430,That is actually hilarious,Positive
+C0431,The image is from yesterday,Neutral
+C0432,"Made my day, great meme",Positive
+C0433,I disagree with this completely,Negative
+C0434,"This is so funny, I love it",Positive
+C0435,Please stop posting this,Negative
+C0436,Perfect meme for today,Positive
+C0437,I disagree with this completely,Negative
+C0438,This is not funny at all,Negative
+C0439,I disagree with this completely,Negative
+C0440,Interesting choice of caption,Neutral
+C0441,Absolutely relatable and brilliant,Positive
+C0442,Not a good meme,Negative
+C0443,That is actually hilarious,Positive
+C0444,Posted at around eight in the evening,Neutral
+C0445,The image is from yesterday,Neutral
+C0446,Posted at around eight in the evening,Neutral
+C0447,This is boring and repetitive,Negative
+C0448,"Made my day, great meme",Positive
+C0449,The joke does not make sense,Negative
+C0450,I disagree with this completely,Negative
+C0451,This was disappointing,Negative
+C0452,Interesting choice of caption,Neutral
+C0453,Absolutely relatable and brilliant,Positive
+C0454,This is one of the available categories,Neutral
+C0455,I understand the reference,Neutral
+C0456,Absolutely relatable and brilliant,Positive
+C0457,This deserves more likes,Positive
+C0458,This is a common meme template,Neutral
+C0459,Wholesome and lovely,Positive
+C0460,This is one of the available categories,Neutral
+C0461,This deserves more likes,Positive
+C0462,This is one of the available categories,Neutral
+C0463,Perfect meme for today,Positive
+C0464,Perfect meme for today,Positive
+C0465,That is actually hilarious,Positive
+C0466,This is not funny at all,Negative
+C0467,This is one of the available categories,Neutral
+C0468,Posted at around eight in the evening,Neutral
+C0469,I have seen this format before,Neutral
+C0470,Not a good meme,Negative
+C0471,This deserves more likes,Positive
+C0472,The image is from yesterday,Neutral
+C0473,That is actually hilarious,Positive
+C0474,I really dislike this post,Negative
+C0475,I have seen this format before,Neutral
+C0476,Perfect meme for today,Positive
+C0477,I laughed so hard at this,Positive
+C0478,The joke does not make sense,Negative
+C0479,That is actually hilarious,Positive
+C0480,Please stop posting this,Negative
+C0481,Please stop posting this,Negative
+C0482,I really dislike this post,Negative
+C0483,This is a common meme template,Neutral
+C0484,I understand the reference,Neutral
+C0485,"Made my day, great meme",Positive
+C0486,The caption has twelve words,Neutral
+C0487,This is a common meme template,Neutral
+C0488,Interesting choice of caption,Neutral
+C0489,"This is so funny, I love it",Positive
+C0490,This was disappointing,Negative
+C0491,The caption has twelve words,Neutral
+C0492,The caption has twelve words,Neutral
+C0493,This deserves more likes,Positive
+C0494,I disagree with this completely,Negative
+C0495,I laughed so hard at this,Positive
+C0496,Absolutely relatable and brilliant,Positive
+C0497,That is actually hilarious,Positive
+C0498,I have seen this format before,Neutral
+C0499,This deserves more likes,Positive
+C0500,Absolutely relatable and brilliant,Positive
+C0501,I have seen this format before,Neutral
+C0502,This is not funny at all,Negative
+C0503,"This is so funny, I love it",Positive
+C0504,This was disappointing,Negative
+C0505,This deserves more likes,Positive
+C0506,"Made my day, great meme",Positive
+C0507,Posted at around eight in the evening,Neutral
+C0508,Wholesome and lovely,Positive
+C0509,I understand the reference,Neutral
+C0510,I laughed so hard at this,Positive
+C0511,This deserves more likes,Positive
+C0512,Not a good meme,Negative
+C0513,This is not funny at all,Negative
+C0514,This is a common meme template,Neutral
+C0515,The caption has twelve words,Neutral
+C0516,This is one of the available categories,Neutral
+C0517,Wholesome and lovely,Positive
+C0518,The caption has twelve words,Neutral
+C0519,I understand the reference,Neutral
+C0520,The caption has twelve words,Neutral
+C0521,The joke does not make sense,Negative
+C0522,Please stop posting this,Negative
+C0523,Perfect meme for today,Positive
+C0524,This deserves more likes,Positive
+C0525,The joke does not make sense,Negative
+C0526,This is not funny at all,Negative
+C0527,The caption has twelve words,Neutral
+C0528,The joke does not make sense,Negative
+C0529,This is boring and repetitive,Negative
+C0530,This is boring and repetitive,Negative
+C0531,I really dislike this post,Negative
+C0532,I disagree with this completely,Negative
+C0533,This deserves more likes,Positive
+C0534,I laughed so hard at this,Positive
+C0535,This is not funny at all,Negative
+C0536,This deserves more likes,Positive
+C0537,Interesting choice of caption,Neutral
+C0538,This is boring and repetitive,Negative
+C0539,Not a good meme,Negative
+C0540,This deserves more likes,Positive
+C0541,Absolutely relatable and brilliant,Positive
+C0542,This is one of the available categories,Neutral
+C0543,This deserves more likes,Positive
+C0544,This is boring and repetitive,Negative
+C0545,I understand the reference,Neutral
+C0546,Please stop posting this,Negative
+C0547,I disagree with this completely,Negative
+C0548,Not a good meme,Negative
+C0549,This was disappointing,Negative
+C0550,I really dislike this post,Negative
+C0551,This is one of the available categories,Neutral
+C0552,This is boring and repetitive,Negative
+C0553,I disagree with this completely,Negative
+C0554,This is not funny at all,Negative
+C0555,Interesting choice of caption,Neutral
+C0556,This is a common meme template,Neutral
+C0557,I laughed so hard at this,Positive
+C0558,The caption has twelve words,Neutral
+C0559,The joke does not make sense,Negative
+C0560,Wholesome and lovely,Positive
+C0561,That is actually hilarious,Positive
+C0562,Interesting choice of caption,Neutral
+C0563,I disagree with this completely,Negative
+C0564,This was disappointing,Negative
+C0565,This is one of the available categories,Neutral
+C0566,The joke does not make sense,Negative
+C0567,I understand the reference,Neutral
+C0568,"Made my day, great meme",Positive
+C0569,This is one of the available categories,Neutral
+C0570,"This is so funny, I love it",Positive
+C0571,I have seen this format before,Neutral
+C0572,"This is so funny, I love it",Positive
+C0573,That is actually hilarious,Positive
+C0574,This deserves more likes,Positive
+C0575,"Made my day, great meme",Positive
+C0576,This deserves more likes,Positive
+C0577,This is one of the available categories,Neutral
+C0578,This is not funny at all,Negative
+C0579,This is one of the available categories,Neutral
+C0580,This is one of the available categories,Neutral
+C0581,"This is so funny, I love it",Positive
+C0582,The caption has twelve words,Neutral
+C0583,"This is so funny, I love it",Positive
+C0584,Posted at around eight in the evening,Neutral
+C0585,Posted at around eight in the evening,Neutral
+C0586,That is actually hilarious,Positive
+C0587,Absolutely relatable and brilliant,Positive
+C0588,"Made my day, great meme",Positive
+C0589,This deserves more likes,Positive
+C0590,Posted at around eight in the evening,Neutral
+C0591,Not a good meme,Negative
+C0592,I really dislike this post,Negative
+C0593,Please stop posting this,Negative
+C0594,This is boring and repetitive,Negative
+C0595,Interesting choice of caption,Neutral
+C0596,I really dislike this post,Negative
+C0597,I have seen this format before,Neutral
+C0598,That is actually hilarious,Positive
+C0599,Please stop posting this,Negative
+C0600,This is one of the available categories,Neutral
